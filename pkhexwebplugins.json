@@ -1,5 +1,5 @@
 {
-    "SourceUrl": "/plugins",
+    "SourceUrl": "https://raw.githubusercontent.com/pkhex-web/plugins-source-assets/main",
     "Name": "Default",
     "SourceDescription": "Default set of plug-ins supported by PKHeX.Web",
     "PlugIns": [
